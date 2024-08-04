@@ -24,7 +24,7 @@ export default function Home() {
         Read the Docs for more information. <Link href="https://orm.drizzle.team/docs/overview" className="text-green-500 hover:underline">Click here</Link>
       </p>
       <p>
-        Source Code. <Link href="https://github.com/vercel/next.js/tree/canary/examples/with-drizzle" className="text-green-500 hover:underline">Click here</Link>
+        Source Code. <Link href="https://github.com/ajmalshahabudeen/drizzle-example" className="text-green-500 hover:underline">Click here</Link>
       </p>
     </main>
   );
